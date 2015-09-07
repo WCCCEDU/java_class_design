@@ -7,7 +7,7 @@ package inversionofcontrol;
 
 /**
  *
- * @author samuraipanzer
+ * @author Paul Scarrone
  */
 public class InversionOfControl {
 
